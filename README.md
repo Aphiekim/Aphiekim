@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning php, mySql, python, R etc...
 - 📫 How to reach me: aphiekim@gmail.com
 - 😎 I can speak in Korean, Japanese and English
-- ⚡ Dev Blog : https://aphiekim.devdojo.com/
+
 <br>
 <hr>
 <!-- <div align="center">
