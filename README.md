@@ -24,7 +24,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://camo.githubusercontent.com/2739bd6e1b2c420b8956e83e9f5729c3abb2381a8f4fc907a526039eb7f640ae/68747470733a2f2f62616467656e2e6e65742f62616467652f2d2f547970655363726970742f626c75653f69636f6e3d74797065736372697074266c6162656c" alt="ts" data-canonical-src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&amp;label" style="max-width: 100%;">
+    <img src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label" alt="ts" data-canonical-src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&amp;label" style="max-width: 100%;">
+  
   <br>
   <h3>Back</h3>
     <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> -->
