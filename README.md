@@ -4,7 +4,7 @@
 ✨Here is a Aphie's repository ✨ 
 
 
-- 🌱 I’m currently learning php, mySql, python, R etc...
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: aphiekim@gmail.com
 - 😎 I can speak in Korean, Japanese and English
 
