@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: aphiekim@gmail.com
 - 😎 I can speak in Korean, Japanese and English
+- Tech blog : https://minyoungs-tech-log.gitbook.io/index/
 
 <br>
 <hr>
