@@ -45,7 +45,7 @@
 <br>
 </div>  
 <br>
-<div align="center">
+<!-- <div align="center">
   <h2> 💻 My GitHub 💻 </h2>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aphiekim&hide=contribs&show_icons=true&count_private=true&theme=buefy)
@@ -59,7 +59,7 @@
 
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aphiekim)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
-
+ -->
 
 
 
